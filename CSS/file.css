@@ -1,0 +1,32 @@
+
+h1 {
+  font-family: fantasy;
+  font-size: 50px;
+  text-align: center;
+  color: yellow;
+  text-shadow: 4px 3px 2px black;
+}
+
+h2 {
+  font-family: serif;
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+  text-shadow: 1px 1px 1px black;
+}
+
+h3 {
+  font-family: serif;
+  font-size: 30px;
+  text-align: center;
+  color: red;
+  text-shadow: 1px 1px 1px black;
+}
+
+.mapa {
+  margin-left: 13cm;
+}
+
+.mapa:hover {
+  opacity: 80%;
+}
